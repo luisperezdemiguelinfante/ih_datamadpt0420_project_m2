@@ -16,6 +16,6 @@ I made several staudies to arrive to the conclusion, such us:
 
 Here you can find more information about it!
 
-[Diamonds_study](https://public.tableau.com/profile/luis.perez.de.miguel#!/vizhome/DiamondsRevenue-LuisPerez/DiamonsRevenue?publish=yes)
+[Diamonds_study](https://public.tableau.com/profile/luis.perez.de.miguel#!/vizhome/DiamondsRevenue-LuisPerez1/DiamonsRevenue?publish=yes)
 
 PS. Wish i could have had more time to develop this. I have a great idea that i discussed with the TL but unfortunately due to the heavy schedule at work wasnt able to develop it.
